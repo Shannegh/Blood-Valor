@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="f7bb-4eaf-f71f-8455" name="American Army" revision="1" battleScribeVersion="2.03" authorName="Rufus Devane and Kai Devane" authorUrl="https://www.firelockgames.com/" library="false" gameSystemId="cb2c-724e-f9b6-a658" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <categoryEntries>
+    <categoryEntry id="9ccb-a4d5-6990-e5a8" name="American Captain Command Team" hidden="false"/>
+    <categoryEntry id="f7da-bcc8-f06c-7f0e" name="American Close Combat Specialists" hidden="false"/>
+    <categoryEntry id="8d5c-fa5d-555c-ec91" name="American Heavy Machine Gun Team" hidden="false"/>
+    <categoryEntry id="06f4-c0d8-340a-c9c8" name="American Inexperienced Riflemen" hidden="false"/>
+    <categoryEntry id="d209-c0bb-97d4-fc8e" name="American Infantry Support Gun" hidden="false"/>
+    <categoryEntry id="7182-f32e-50c0-1b38" name="American Lieutenant Command Team" hidden="false"/>
+    <categoryEntry id="1121-690a-8439-7f97" name="American Major Command Team" hidden="false"/>
+    <categoryEntry id="e027-ed61-310a-123a" name="American Riflemen" hidden="false"/>
+    <categoryEntry id="b9c7-205d-5924-24f1" name="Lieutenant Samuel Woodfill" hidden="false"/>
+    <categoryEntry id="82bb-4e47-882b-7252" name="Major Charles Whittlesey" hidden="false"/>
+    <categoryEntry id="e038-45f4-f28c-6296" name="Sergeant Dan Daly" hidden="false"/>
+    <categoryEntry id="864c-6e0f-0748-3a18" name="Sergeant Alvin York" hidden="false"/>
+  </categoryEntries>
+  <entryLinks>
+    <entryLink id="9e62-82a2-d1bd-556c" name="American Captain Command Team" hidden="false" collective="false" import="true" targetId="a7cd-d3b0-194d-b6c1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6c23-cf69-05f1-3ea1" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="91cb-6eb5-420c-ae6d" name="American Inexperienced Riflemen" hidden="false" collective="false" import="true" targetId="023d-637e-5c3d-3bc5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8086-8f57-c648-c5ca" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="87a2-f3f5-e45d-04c9" name="American Major Command Team" hidden="false" collective="false" import="true" targetId="989a-7038-6f2f-7562" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="38e5-8f30-894e-2dd4" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d95f-a9e2-5410-da79" name="American Heavy Machine Gun Team" hidden="false" collective="false" import="true" targetId="d418-8431-9e4c-0e82" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cb6b-f5cb-9e47-36de" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="30e4-2887-dcb0-e9b4" name="Sergeant Alvin York" hidden="false" collective="false" import="true" targetId="4103-db3e-f326-aec8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5d75-822c-862d-987e" name="Core" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6a42-fd0d-6303-bf8d" name="American Infantry Support Gun" hidden="false" collective="false" import="true" targetId="240a-2526-0142-3972" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5d2e-036f-f512-e346" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8a96-6175-92bd-30cf" name="American Riflemen" hidden="false" collective="false" import="true" targetId="aa63-20fb-af34-24e4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="673a-223b-4891-474e" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a444-5aa4-3b3f-d33e" name="Lieutenant Samuel Woodfill" hidden="false" collective="false" import="true" targetId="3f02-db97-4471-a217" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4714-e4a2-3560-7cb5" name="Command" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="103a-3df1-7bfb-d2b1" name="American Lieutenant Command Team" hidden="false" collective="false" import="true" targetId="d6ab-7e0b-e0d3-e0cc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bac9-6956-b605-dffc" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e6f5-fc8b-5d52-4128" name="Artillery Barrage" hidden="false" collective="false" import="true" targetId="0899-b2d9-dcf8-f10b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4934-a54e-ae45-d3a5" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="80ca-539b-84fc-7277" name="Major Charles Whittlesey" hidden="false" collective="false" import="true" targetId="7cb5-6fcd-0406-0b8e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fc08-847a-edcf-e89a" name="Command" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="25b6-211a-481c-6f6e" name="Sergeant Dan Daly" hidden="false" collective="false" import="true" targetId="2c5e-657c-5815-ac89" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3b8a-6cd3-64b5-6a9c" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e082-d5eb-5c38-450d" name="Gas Barrage" hidden="false" collective="false" import="true" targetId="b0b9-cbd9-f244-cf4f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c530-d7e2-6505-ea17" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="47fe-2ca0-159f-1de3" name="American Close Combat Specialists" hidden="false" collective="false" import="true" targetId="5324-ecb7-1ce8-f65f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b5ab-6af6-71f5-a6b8" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+</catalogue>

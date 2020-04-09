@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="3460-c2e5-2810-cdf1" name="Australian and New Zealand Army Corps (ANZAC)" revision="1" battleScribeVersion="2.03" authorName="Rufus Devane and Kai Devane" authorUrl="https://www.firelockgames.com/" library="false" gameSystemId="cb2c-724e-f9b6-a658" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <categoryEntries>
+    <categoryEntry id="07a1-f181-1740-94c0" name="Trooper Billy Sing" hidden="false"/>
+    <categoryEntry id="ee44-809d-b7b5-841c" name="ANZAC Close Combat Specialists" hidden="false"/>
+    <categoryEntry id="8387-a91d-cd01-10be" name="ANZAC Heavy Machine Gun Team" hidden="false"/>
+    <categoryEntry id="3bb2-a1ea-e2f1-1607" name="ANZAC Major Command Team" hidden="false"/>
+    <categoryEntry id="fc91-197b-e313-b4d6" name="ANZAC Riflemen (Western Front)" hidden="false"/>
+    <categoryEntry id="c58e-6dbc-7ba6-43e6" name="ANZAC Trench Catapult" hidden="false"/>
+    <categoryEntry id="fa1d-afab-4cc3-e2ee" name="ANZAC Lieutenant Command Team" hidden="false"/>
+    <categoryEntry id="5824-2364-d056-1907" name="Captain Albert Jacka" hidden="false"/>
+    <categoryEntry id="f252-718b-4c1d-588e" name="ANZAC Sniper" hidden="false"/>
+    <categoryEntry id="9b39-efcb-37e2-86db" name="Colonel John Monash" hidden="false"/>
+    <categoryEntry id="b410-314f-f25a-0d7e" name="ANZAC Captain Command Team" hidden="false"/>
+    <categoryEntry id="52d9-1b48-708c-3369" name="Artillery Barrage" hidden="false"/>
+    <categoryEntry id="1836-5788-f849-4f27" name="ANZAC Riflemen" hidden="false"/>
+    <categoryEntry id="3d7c-c390-ba17-e8ea" name="Naval Gunfire Barrage" hidden="false"/>
+    <categoryEntry id="4325-1d5b-11f9-3712" name="Royal Naval Division" hidden="false"/>
+  </categoryEntries>
+  <entryLinks>
+    <entryLink id="b67d-f61b-e28e-b8cc" name="ANZAC Major Command Team" hidden="false" collective="false" import="true" targetId="b0b7-9b75-505e-8451" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1589-1ed1-ccf6-404a" name="Command" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6ed2-aa6a-98fb-838d" name="ANZAC Riflemen (Western Front)" hidden="false" collective="false" import="true" targetId="e71c-586a-c909-f559" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bbc7-91e3-a1d6-1be6" name="Core" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7a17-ed67-102a-f79b" name="ANZAC Lieutenant Command Team" hidden="false" collective="false" import="true" targetId="b303-3ad0-eab3-3de2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d172-d81b-2497-bdab" name="Command" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="aa5b-ab5c-5960-6df2" name="ANZAC Sniper" hidden="false" collective="false" import="true" targetId="1a2b-863f-e3c2-750b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="eb6d-b71a-09ed-6fce" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5ea1-e1fd-8468-1485" name="ANZAC Trench Catapult" hidden="false" collective="false" import="true" targetId="5e1f-d5d8-e24a-138d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fde1-d40e-ee86-8f5d" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="748b-6c31-8861-faf8" name="ANZAC Close Combat Specialists" hidden="false" collective="false" import="true" targetId="bd30-af23-c3e7-6197" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8d33-326e-c951-057a" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2ab9-1d7d-cc77-e601" name="ANZAC Riflemen" hidden="false" collective="false" import="true" targetId="5f26-3e29-c2fa-2c71" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5b17-f2b3-3cda-3616" name="Core" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="666c-615d-1555-cc55" name="ANZAC Artillery Barrage" hidden="false" collective="false" import="true" targetId="fb42-55cf-5dbc-e8dd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e693-fcc1-1c18-76ef" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f166-afd5-4828-bd27" name="Naval Gunfire Barrage" hidden="false" collective="false" import="true" targetId="9ec1-cb43-4a5d-d2a2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="afaa-5a77-e435-7049" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b281-ce3f-0d02-e764" name="ANZAC Captain Command Team" hidden="false" collective="false" import="true" targetId="c940-f242-1e0e-6349" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="77ed-0327-d98f-3669" name="Command" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c81d-58ec-85ff-d2c6" name="ANZAC Heavy Machine Gun Team" hidden="false" collective="false" import="true" targetId="993a-a0e5-33c6-e4dc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="74d7-8e52-d3d8-f074" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3801-dcfe-e83b-6a21" name="Colonel John Monash" hidden="false" collective="false" import="true" targetId="0c17-f2df-85ae-1aed" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3d83-563a-7b65-7c45" name="Command" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b14b-cf96-9539-9054" name="Trooper Billy Sing" hidden="false" collective="false" import="true" targetId="b24f-2de2-2dbe-794d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d1a1-4001-82be-e4f2" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="eba2-a239-af52-98aa" name="Captain Albert Jacka" hidden="false" collective="false" import="true" targetId="8384-5599-46de-f7c3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8a9e-e068-2cca-d57d" name="Command" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="686d-9351-9aa6-7a70" name="Royal Naval Division" hidden="false" collective="false" import="true" targetId="7bb7-4735-65be-bd99" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c7ea-2b87-5eaa-4705" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+</catalogue>

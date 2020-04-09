@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="a7a4-d782-6722-bb93" name="British Army" revision="1" battleScribeVersion="2.03" authorName="Rufus Devane and Kai Devane" authorUrl="https://www.firelockgames.com/" library="false" gameSystemId="cb2c-724e-f9b6-a658" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="dfd6-d682-ae2e-8600" name="British Major Command Team" hidden="false" collective="false" import="true" targetId="3978-5c3c-1521-bbbc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4295-2205-2f57-ab3b" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c6ac-c4f8-950f-cc67" name="British Inexperienced Riflemen" hidden="false" collective="false" import="true" targetId="c68a-49a3-1a8e-cd0e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8baf-284d-a4a2-c4af" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b311-1706-d22e-a8f5" name="British Riflemen" hidden="false" collective="false" import="true" targetId="5aef-c6ed-ea98-0a63" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1eb8-0617-e497-7df4" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="acec-7d74-8b5e-5d35" name="British Close Combat Specialists - Scottish Soldiers" hidden="false" collective="false" import="true" targetId="45d1-3175-1476-f2ec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0d73-ed5c-8cce-d476" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9228-11f1-8378-11d6" name="Lieutenant Edgar Towner" hidden="false" collective="false" import="true" targetId="7de5-8d00-a10a-f5f5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5eab-9fa5-43e5-22c3" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ef11-c88f-d2b8-0753" name="British Heavy Machine Gun Team" hidden="false" collective="false" import="true" targetId="a6ff-6294-a491-4b85" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="117e-e5c3-1d18-82c4" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b135-b378-f3e4-06ed" name="British Sniper Team" hidden="false" collective="false" import="true" targetId="fe57-a525-7e1e-7a24" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="07b9-4cef-0d0b-33ee" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6ca6-002e-9940-df19" name="British Close Combat Specialists &quot;Trench Raiders&quot;" hidden="false" collective="false" import="true" targetId="3841-0a3f-35f0-59f6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0862-bed6-da8d-5f7d" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bc0d-fc86-820f-6e75" name="Corporal Francis Pegahmagabow (Canada)" hidden="false" collective="false" import="true" targetId="6b2c-79ce-781d-ae2a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="99af-8f5d-357c-2d3e" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ee7d-1164-2f8b-43b5" name="British Close Combat Specialists (Gurkhas)" hidden="false" collective="false" import="true" targetId="a687-b6d1-762d-91c5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="29d4-6ac7-831c-098e" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b939-3bef-a7a3-eb0e" name="Company Sergeant Major John Henry Williams&apos; Unit" hidden="false" collective="false" import="true" targetId="842e-05c5-80fc-7623" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9f15-6935-5d02-f03e" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a12e-b835-787b-59a2" name="British Captain Command Team" hidden="false" collective="false" import="true" targetId="d3d7-280e-1e03-f75c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="07fd-0986-536d-f7ce" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ce82-f3de-79ae-70bc" name="British Gas Barrage" hidden="false" collective="false" import="true" targetId="0ec0-7fed-887d-1861" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d807-09fc-3063-b2d6" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a652-792b-ac51-ac52" name="British Artillery Barrage" hidden="false" collective="false" import="true" targetId="2087-c136-d9e4-2bb5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="669f-a903-637f-dc0a" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e9e6-e404-7089-cd96" name="Lieutenant JRR Tolkien" hidden="false" collective="false" import="true" targetId="2b32-19dd-2a67-26d6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2e57-0e04-1a03-bc17" name="Command" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="27e0-6a69-8d2d-1c92" name="British Lieutenant Command Team" hidden="false" collective="false" import="true" targetId="df18-7cad-4b92-1143" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f9b4-8a06-8f17-6705" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+</catalogue>

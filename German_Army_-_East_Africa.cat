@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="86ab-2c34-49f1-2a98" name="German Army - East Africa" revision="1" battleScribeVersion="2.03" authorName="Rufus Devane and Kai Devane" authorUrl="https://www.firelockgames.com/" library="false" gameSystemId="cb2c-724e-f9b6-a658" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="ed0e-eec1-7861-6c26" name="German Schutztruppe Riflemen" hidden="false" collective="false" import="true" targetId="9b03-e49f-1e9f-4a7e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3434-694d-65af-cf1b" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="90f3-50e9-7836-d2a5" name="Leutnant Colonel Paul Emil von Lettow-Vorbeck" hidden="false" collective="false" import="true" targetId="768c-a10d-d6b1-5903" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="90a4-4566-dc59-5e7d" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="41ff-22b9-fa10-ab73" name="German Sniper" hidden="false" collective="false" import="true" targetId="f196-b0dc-bbcb-fd37" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0148-9a0b-aa69-90f7" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3c7a-5f99-dadb-8b7f" name="German Hauptmann Command Team" hidden="false" collective="false" import="true" targetId="1e94-c37e-5b4f-ef6f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="beac-5b00-d9ea-a797" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2c32-9309-c2c8-5cf3" name="German Naval Riflemen" hidden="false" collective="false" import="true" targetId="cc58-1d2c-37f1-79ad" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="91f4-445b-991e-2c5f" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="aae2-7bb3-e3e1-d126" name="German Major Command Team" hidden="false" collective="false" import="true" targetId="baa4-486a-bfa9-a617" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8c74-92af-dfd1-1d7e" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8978-e9aa-b960-0500" name="Schutztruppe/Askari Close Combat Specialists" hidden="false" collective="false" import="true" targetId="09d5-996e-fb67-4ea7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d10e-9bcd-e337-3db6" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c699-d721-70fa-2242" name="German Askari Riflemen" hidden="false" collective="false" import="true" targetId="9164-0f37-7535-02b8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a513-d451-f67c-59ff" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e929-a2f2-5e32-eaa3" name="German Heavy Machine Gun Team" hidden="false" collective="false" import="true" targetId="f2f7-d67d-031d-5223" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cace-f367-2e72-4b2c" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="469d-f017-6108-11c2" name="German Artillery Barrage - East Africa" hidden="false" collective="false" import="true" targetId="1ce3-2048-dace-b3fa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b53b-f6d9-fecb-e4ba" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a7da-5d4e-6df1-7b98" name="Konigsburg Gun Barrages" hidden="false" collective="false" import="true" targetId="a578-11fb-a85f-0a51" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7f00-e55a-f53e-70e0" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8764-422d-90bf-35c9" name="German Leutnant Command Team" hidden="false" collective="false" import="true" targetId="4fc8-99ba-2179-7c3d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6e33-2c13-874a-ddf0" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+</catalogue>

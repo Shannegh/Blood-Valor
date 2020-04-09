@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="feb4-550c-3c36-9cbf" name="British Army - East Africa" revision="1" battleScribeVersion="2.03" authorName="Rufus Devane and Kai Devane" authorUrl="https://www.firelockgames.com/" library="false" gameSystemId="cb2c-724e-f9b6-a658" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="6f45-b04e-d7ba-0474" name="British Sniper Team" hidden="false" collective="false" import="true" targetId="fe57-a525-7e1e-7a24" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8349-fb1c-c8eb-ab4a" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="da76-c2d9-21a2-3ec9" name="British Major Command Team" hidden="false" collective="false" import="true" targetId="3978-5c3c-1521-bbbc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="edd9-83f1-f1a8-1aae" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0c97-b950-6c1f-b829" name="British Heavy Machine Gun Team" hidden="false" collective="false" import="true" targetId="a6ff-6294-a491-4b85" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7961-841e-1e27-dc4a" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b97f-fe21-ddcd-164a" name="British Captain Command Team" hidden="false" collective="false" import="true" targetId="d3d7-280e-1e03-f75c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ed3f-8915-a864-a13e" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a4a6-2317-499e-4655" name="Colonial Close Combat Specialists" hidden="false" collective="false" import="true" targetId="b5c6-7fc3-a0c4-d162" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3661-3f0c-7840-d464" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="69c8-a1b4-adf1-cb8f" name="Captain Richard Meinertzhagen" hidden="false" collective="false" import="true" targetId="54a8-0501-e255-d726" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9d67-cfb3-ad39-4319" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="582a-00a1-69db-4d1d" name="British Lieutenant Command Team" hidden="false" collective="false" import="true" targetId="df18-7cad-4b92-1143" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bc1e-745b-db6a-443c" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8bc7-647d-613a-4e86" name="King&apos;s African Riflemen" hidden="false" collective="false" import="true" targetId="2629-1179-b3cd-2e4d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b9e7-361f-db6b-c4fa" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5c36-3b84-0f62-310b" name="British Artillery Barrage - East Africa" hidden="false" collective="false" import="true" targetId="7186-7729-dacf-8a7d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="32fa-f04d-2f3c-f97a" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2f17-d6d8-6c7e-938c" name="British European or Colonial Riflemen" hidden="false" collective="false" import="true" targetId="2eba-f3c1-44ec-477d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1f90-d119-7405-e58f" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+</catalogue>

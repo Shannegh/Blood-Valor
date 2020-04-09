@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="6a7f-f7bc-3853-42e4" name="British Army - Campaign in the Near East" revision="1" battleScribeVersion="2.03" authorName="Rufus Devane and Kai Devane" authorUrl="https://www.firelockgames.com/" library="false" gameSystemId="cb2c-724e-f9b6-a658" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="04b9-7bb2-5538-115d" name="British Artillery Barrage - Near East" hidden="false" collective="false" import="true" targetId="f07f-e962-8b71-a474" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="770c-f92c-22e7-0c18" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c640-0032-72de-07cc" name="British Riflemen" hidden="false" collective="false" import="true" targetId="5aef-c6ed-ea98-0a63" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d242-ad4b-0684-a074" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0878-2e23-64e2-e418" name="British Lieutenant Command Team" hidden="false" collective="false" import="true" targetId="df18-7cad-4b92-1143" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ddc1-7e37-4402-707f" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1363-fdf5-32db-6460" name="British Close Combat Specialists - Scottish Soldiers" hidden="false" collective="false" import="true" targetId="45d1-3175-1476-f2ec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="67f5-1786-55b6-3841" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bfec-65a2-8776-1d45" name="British Close Combat Specialists &quot;Trench Raiders&quot;" hidden="false" collective="false" import="true" targetId="3841-0a3f-35f0-59f6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="56f6-af73-e6d6-738c" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4235-c9fa-1bf1-f1e5" name="British Inexperienced Riflemen" hidden="false" collective="false" import="true" targetId="c68a-49a3-1a8e-cd0e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2ffd-35e4-39f1-64e8" name="Core" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="55c8-c847-ad87-2d2f" name="British Captain Command Team" hidden="false" collective="false" import="true" targetId="d3d7-280e-1e03-f75c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ab9c-2642-aa9d-2b42" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1c15-5513-08de-39d7" name="British Close Combat Specialists (Gurkhas)" hidden="false" collective="false" import="true" targetId="a687-b6d1-762d-91c5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="860a-f280-6260-3bda" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d98f-77c3-9441-1327" name="Australian Light Horse" hidden="false" collective="false" import="true" targetId="6f3e-6e2b-bfc9-3bd1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="46cd-05f3-884c-77ea" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d11b-3ee7-d85f-8d35" name="British Heavy Machine Gun Team" hidden="false" collective="false" import="true" targetId="a6ff-6294-a491-4b85" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bc75-e26d-6a37-eb6d" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1f18-1efc-b8a9-791b" name="Arab Irregular Riflemen" hidden="false" collective="false" import="true" targetId="ef85-f98e-4d04-8d6e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="943c-baac-7441-25dc" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="73db-2ad4-2313-49f4" name="British Sniper Team" hidden="false" collective="false" import="true" targetId="fe57-a525-7e1e-7a24" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e0c4-0fb1-5782-0766" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ce2d-73a2-20eb-0d78" name="Lawrence of Arabia" hidden="false" collective="false" import="true" targetId="50c1-f7c1-99a4-a5b3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="050e-e9b6-ae06-ad68" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3d9e-487d-1f09-1581" name="Arab Irregular Cavalry" hidden="false" collective="false" import="true" targetId="9c2d-ad83-d42d-ab54" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1e19-0233-b5b0-1845" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1615-1ba9-ab7e-b7ff" name="British Major Command Team" hidden="false" collective="false" import="true" targetId="3978-5c3c-1521-bbbc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="65f7-a49e-5ec3-5fb4" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c429-74e7-6c4d-483f" name="Arab Irregular Assault Team" hidden="false" collective="false" import="true" targetId="16f7-d08b-e17e-3c02" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="382e-9d23-a1bf-006b" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+</catalogue>

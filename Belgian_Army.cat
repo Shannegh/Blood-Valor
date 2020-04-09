@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="ec24-c138-7673-0bec" name="Belgian Army" revision="1" battleScribeVersion="2.03" authorName="Rufus Devane and Kai Devane" authorUrl="https://www.firelockgames.com/" library="false" gameSystemId="cb2c-724e-f9b6-a658" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="c948-3906-3d5f-e616" name="Belgian Sous-Lieutenant Command Team" hidden="false" collective="false" import="true" targetId="57bd-f007-5699-bb7c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c256-5a04-b631-7204" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="41cf-5480-4f68-4077" name="Belgian Cavalry" hidden="false" collective="false" import="true" targetId="c57f-1e13-f8a4-2a08" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8135-8fd1-c93e-2744" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3a7f-3331-6aaf-cec2" name="Belgian Major Command Team" hidden="false" collective="false" import="true" targetId="c653-6497-b75a-5ccc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3656-65c0-77be-2e39" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b483-7688-0852-e658" name="Carabiniers-cyclistes" hidden="false" collective="false" import="true" targetId="3dff-1d56-30b2-2491" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ea9c-22fb-436d-6309" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="17de-03b1-aec9-996f" name="Belgian Heavy Machine Gun Team" hidden="false" collective="false" import="true" targetId="3b65-6e25-e7ea-c8e7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fc24-b419-59ab-1361" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ddbb-7eba-7b54-5c79" name="Capitaine-Commandant Van Damme" hidden="false" collective="false" import="true" targetId="2533-6e8c-e239-a2dd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="92c4-325f-33e7-5caa" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="118a-cdfe-933d-7804" name="Belgian Garde Civique Inexperienced Riflemen" hidden="false" collective="false" import="true" targetId="6769-6c6a-a317-5621" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="562e-357d-1925-2e08" name="Core" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3cb1-51ec-e947-cc49" name="Liege Fort Artillery Barrage" hidden="false" collective="false" import="true" targetId="6c22-adea-66e5-d0c7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="59e9-4e4a-b17c-ce8a" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5e2e-4403-34d2-8fe3" name="Belgian Riflemen" hidden="false" collective="false" import="true" targetId="a91d-71e6-47cc-96d8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d53d-7bf6-bc4c-227f" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8f5b-0227-2790-6f57" name="Belgian Sniper" hidden="false" collective="false" import="true" targetId="6349-0e65-030b-831e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d23d-3c94-6277-614e" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a746-cadc-6cae-9984" name="Belgian Capitaine Command Team" hidden="false" collective="false" import="true" targetId="b15e-620c-6e31-3653" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c1a2-0f53-62f7-80dc" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e2fc-66b8-dded-ffec" name="Belgian Artillery Barrage" hidden="false" collective="false" import="true" targetId="8ef1-34cc-3c7a-dba7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fdac-16a1-0316-78b4" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+</catalogue>

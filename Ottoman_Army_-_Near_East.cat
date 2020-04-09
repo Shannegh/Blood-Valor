@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="f0cb-86d8-e8ed-e662" name="Ottoman Army - Near East" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="cb2c-724e-f9b6-a658" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="0a6a-ba70-a625-3c09" name="Ottoman Close Combat Specialist Team &quot;Trench Raiders&quot;" hidden="false" collective="false" import="true" targetId="2181-deb3-c58d-ce1b" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d7df-6b50-4a15-9bb6" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f649-eb4f-ff1d-e866" name="Ottoman Inexperienced Riflemen" hidden="false" collective="false" import="true" targetId="2153-7266-c89c-2323" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b6be-a7a7-4bf5-be74" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9d71-af3e-a686-849e" name="Ottoman Artillery Barrage - Near East" hidden="false" collective="false" import="true" targetId="cfe2-1f70-4c9a-ac3c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="0a67-bea2-e48d-f3f7" name="Support" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a565-a6ca-425d-ab6c" name="Ottoman BinbaAyi Command Team" hidden="false" collective="false" import="true" targetId="bf6a-265f-015b-bea4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="883d-0dac-ae45-65a5" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8bc1-12b9-c865-fcad" name="Ottoman Sniper" hidden="false" collective="false" import="true" targetId="e2ff-0007-4f9a-bdab" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="39e0-33c5-0e97-6853" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="38d3-d2a0-ad8a-343f" name="German Inexperienced Riflemen" hidden="false" collective="false" import="true" targetId="5785-c7cf-50ab-cb45" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b0b9-1a0a-4855-e055" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c9c3-e0d6-aa75-cdbc" name="Ottoman Mulzaim san Command Team" hidden="false" collective="false" import="true" targetId="393b-1573-8be3-20f3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bebc-ca44-9866-13d1" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="be1d-7255-5308-6b51" name="German Riflemen" hidden="false" collective="false" import="true" targetId="4aa6-6685-49e2-a544" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="500a-7ef8-1508-1e45" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6dc0-bdf4-f9f0-cc9c" name="Ottoman Cavalry" hidden="false" collective="false" import="true" targetId="84f2-3e12-8a82-ab86" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="797a-1abf-78ee-4b1c" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c390-fb52-403c-d5f4" name="Ottoman Trench Catapult" hidden="false" collective="false" import="true" targetId="68de-165d-d204-21d3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="672a-73b9-6cd6-4d2c" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6971-d83f-8db2-2ae9" name="Ottoman Riflemen" hidden="false" collective="false" import="true" targetId="0e2c-86e8-8373-2561" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="93d0-c2f4-83fd-7764" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e2a1-78f1-8389-19c4" name="Ottoman YuzbaAyi Command Team" hidden="false" collective="false" import="true" targetId="2c73-1b12-6e58-f2ff" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4b81-e63b-7b1a-e575" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="82e5-aa7e-5b53-cbca" name="Ottoman Heavy Machine Gun Team" hidden="false" collective="false" import="true" targetId="e0b3-7bd0-d6df-0671" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4a17-b930-550c-ad64" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+</catalogue>

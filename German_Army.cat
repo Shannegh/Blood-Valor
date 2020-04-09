@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="6303-4653-e72b-fe2d" name="German Army" revision="1" battleScribeVersion="2.03" authorName="Rufus Devane and Kai Devane" authorUrl="https://www.firelockgames.com/" library="false" gameSystemId="cb2c-724e-f9b6-a658" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="b5cb-5ec7-0435-0210" name="German Sniper" hidden="false" collective="false" import="true" targetId="f196-b0dc-bbcb-fd37" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2e10-8642-57c7-f326" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e750-6725-946a-bca4" name="German Inexperienced Riflemen" hidden="false" collective="false" import="true" targetId="5785-c7cf-50ab-cb45" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="daa5-9b8b-5dc4-4a94" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9cfa-115f-ab69-eeb3" name="German Flamethrower Team" hidden="false" collective="false" import="true" targetId="ebf5-4c35-160f-ecc2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="67bd-9bd5-4fcc-14e3" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2745-2699-abb6-c291" name="German Leutnant Command Team" hidden="false" collective="false" import="true" targetId="4fc8-99ba-2179-7c3d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5fc0-493b-9b9a-6a4e" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2da4-b6ac-28e6-6025" name="German Major Command Team" hidden="false" collective="false" import="true" targetId="baa4-486a-bfa9-a617" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6c04-c84c-ce33-e6dd" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="9757-2847-d603-5a8b" name="German Hauptmann Command Team" hidden="false" collective="false" import="true" targetId="1e94-c37e-5b4f-ef6f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b495-a2b1-41b5-d00e" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="12de-8b28-3242-157a" name="Hauptmann Erwin Rommel" hidden="false" collective="false" import="true" targetId="805d-83d1-71bb-fc59" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4cf1-0a27-05d5-04ec" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="674b-2dfa-8063-e734" name="German Close Combat Specialists - Stormtroopers" hidden="false" collective="false" import="true" targetId="e9a1-8460-b2c0-8204" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9a9f-4960-9066-3056" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c1b9-79d5-eaf9-2d39" name="German Riflemen" hidden="false" collective="false" import="true" targetId="4aa6-6685-49e2-a544" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1c92-b67c-c696-c481" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a33d-a769-020c-78ea" name="German Gas Barrage" hidden="false" collective="false" import="true" targetId="c483-4fe7-01f1-7b1e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="21b7-3471-8fc8-e585" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c3ad-0a94-b8b9-0d56" name="Hauptmann Johann von Ravenstein" hidden="false" collective="false" import="true" targetId="97ad-12dc-2d8d-75d0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1b71-95e6-e9c0-b28d" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e153-8a38-f441-fb6d" name="German Heavy Machine Gun Team" hidden="false" collective="false" import="true" targetId="f2f7-d67d-031d-5223" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="76e9-09c9-bfdc-0032" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e77f-d037-9da1-8da1" name="Leiutnant Ernst Junger" hidden="false" collective="false" import="true" targetId="3f53-e2d3-6167-26dd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="aed9-b02f-aacb-0533" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5456-d267-034d-6a3a" name="German Artillery Barrage" hidden="false" collective="false" import="true" targetId="5446-1860-5270-ea9a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="330e-5df9-7e9e-d3e4" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+</catalogue>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="5572-753e-f98f-3f55" name="French Army" revision="1" battleScribeVersion="2.03" authorName="Rufus Devane and Kai Devane" authorUrl="https://www.firelockgames.com/" library="false" gameSystemId="cb2c-724e-f9b6-a658" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="3ad7-60f7-9199-9c2c" name="French Gas Barrage" hidden="false" collective="false" import="true" targetId="6c52-36ae-ae2c-d7d3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="43b6-9893-8eb7-79db" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="26b1-108d-ffe5-c6d8" name="French Sous-Lieutenant Command Team" hidden="false" collective="false" import="true" targetId="a262-d957-536f-de75" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="372a-c12b-7c27-38aa" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="038c-2c5b-5420-ccf6" name="Lieutenant Colonel James Waddell" hidden="false" collective="false" import="true" targetId="7c91-e6d4-c92f-4db8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4102-06d4-c261-040d" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4f08-ff9f-baf4-f6b8" name="French Riflemen" hidden="false" collective="false" import="true" targetId="8215-307d-f458-e1b5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b675-a6c7-4fcf-7325" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c696-6d8f-2df0-11ca" name="French Close Combat Specialist Team &quot;Trench Raiders&quot;" hidden="false" collective="false" import="true" targetId="69d7-99ad-46b6-5ab7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9c27-8df7-0c79-ee8c" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e56f-c6ec-6dfb-54c8" name="French Sniper" hidden="false" collective="false" import="true" targetId="4b8b-dbce-efac-7a2d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4651-cc55-d1a1-b85b" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bfa7-fe1b-ed22-7d89" name="French Major Command Team" hidden="false" collective="false" import="true" targetId="4493-cef7-f478-7f3c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3df4-97dc-a8da-ffe6" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5787-7b5c-e66e-89c3" name="Lieutenant Colonel Emile Driant" hidden="false" collective="false" import="true" targetId="6dc6-49eb-7f2f-fe58" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2ad5-3362-8aef-b910" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="171e-cd11-3f96-942f" name="French Infantry Support Gun" hidden="false" collective="false" import="true" targetId="c80e-2543-8800-8b70" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1252-c4ae-0e86-6152" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="17a6-b8dd-e626-c846" name="Private Johnson&apos;s Hellfighter" hidden="false" collective="false" import="true" targetId="d210-5c84-3df2-395f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="364e-87bf-88e8-84ea" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5311-53df-57a3-7876" name="French Artillery Barrage" hidden="false" collective="false" import="true" targetId="cd6c-93d0-fb54-91b2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f338-3eee-2f93-3ba9" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1d95-9961-5213-dbb8" name="French Close Combat Specialist Team &quot;The Harlem Hellfighters&quot;" hidden="false" collective="false" import="true" targetId="6ece-9db6-d7b3-0b26" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ac44-422b-5c91-76c9" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e366-423b-3ff7-36a2" name="French Heavy Machine Gun Team" hidden="false" collective="false" import="true" targetId="4d26-0a75-35fd-765c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cd3c-daf2-a8e9-51d9" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4c69-05da-89b3-44cf" name="French Close Combat Specialist Team &quot;Sengalese&quot;" hidden="false" collective="false" import="true" targetId="6f6e-6c93-57d9-325a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="90ac-3325-808e-02fd" name="New CategoryLink" hidden="false" targetId="3c98-dd44-557b-284a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="61c7-008c-117e-a51d" name="French Inexperienced Riflemen" hidden="false" collective="false" import="true" targetId="74bc-12ee-e6a6-67d6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8d94-64bc-6102-acef" name="New CategoryLink" hidden="false" targetId="12db-bb43-5f79-424e" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2ab0-02f8-4246-fa61" name="French Capitaine Command Team" hidden="false" collective="false" import="true" targetId="d4dd-b76d-e6b9-c0c9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="80ee-51b5-419a-4a9f" name="New CategoryLink" hidden="false" targetId="dd74-6e14-fe4c-e09c" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+</catalogue>
